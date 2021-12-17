@@ -1,4 +1,4 @@
-# Automovefiles
+# Rename and Sort video files
 
 Move and rename files from observed directory, based on regex search in filename. <br>
 Currently aimed at series with season `[Ss](\d+)` and episode `[xXeE\.\-](\d+)`
